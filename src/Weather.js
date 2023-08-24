@@ -65,6 +65,16 @@ export default function Weather() {
           </div>
         </div>
       </div>
+      <small>
+        <a
+          href="https://github.com/Garciasince00/weather-app-react"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Open-source code{" "}
+        </a>
+        , by Sandra Garcia
+      </small>
     </div>
   );
 }
